@@ -1,6 +1,6 @@
 {
   "name": "text-rand-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "text-rand-utils.js",
   "scripts": {
