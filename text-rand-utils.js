@@ -3,10 +3,13 @@
 const Aestheticizer = require("./lib/aestheticizer/aestheticizer");
 const Capitalizer = require("./lib/capitalizer/capitalizer");
 const BlockTextifyer = require("./lib/discord/block-textifyer");
+const Pekofyer = require("./lib/pekofyer/pekofyer");
+
 const Discord = { BlockTextifyer };
 
 module.exports = {
     Aestheticizer,
     Capitalizer,
-    Discord
+    Discord,
+    Pekofyer
 };
